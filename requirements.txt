@@ -1,0 +1,8 @@
+pandas
+ipykernel
+textstat
+matplotlib
+seaborn
+statsmodels
+tqdm
+nltk
